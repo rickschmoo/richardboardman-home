@@ -1,3 +1,8 @@
+# RichardBoardman.com
+
+The beginnings of a new home page. Based on:
+
+
 # Eleventastic
 
 A simple Eleventy Starter Kit, my base for all new 11ty projects. ([Demo Site](https://eleventastic.netlify.com))

@@ -30,6 +30,17 @@ body {
     }
 }
 
+ul {margin-left: 0; padding-left: 40px;}
+
+.ul-content li {
+    display: list-item;
+    list-style-type: square;
+}
+
+.text-paragraph {
+    margin: 20px;
+}
+
 .container {
     width: 90%;
     margin-left: auto;
